@@ -1,7 +1,14 @@
 {
-  "version": "7.0",
-  "notes": "uno",
-  "published_at": 1790999409,
-  "app_sha256": "f944c86255df166cb6db1737b43040a7079ed37b6744b2891f2dbef0cb66a8ae",
+  "version": "7.1",
+  "notes": "pyd",
+  "published_at": 1791030250,
+  "app_sha256": "d46a1700bf53b670fb2073edb9c22541650b2e2b1aaa9edac4e10492b9507d97",
+  "compiled": true,
+  "runtime_files": [
+    {
+      "path": "_audiotwizz_core.cp312-win_amd64.pyd",
+      "sha256": "7aca8aa7c580f57446e2e46102279bccd0aa8b7c4d566f38aaeb9f1a04035c34"
+    }
+  ],
   "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
 }
