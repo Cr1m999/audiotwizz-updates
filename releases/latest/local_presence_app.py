@@ -226,7 +226,7 @@ except Exception:  # tag reading is optional (falls back to file names)
 
 APP_NAME = "LocalPresence"
 APP_TITLE = "AudioTwizz"   # display name only; APP_NAME stays so existing settings keep working
-APP_VERSION = "6.9"
+APP_VERSION = "7.0"
 # Address of your own update server (the one in the update-server/ folder), e.g.
 # "https://updates.example.com" or "http://1.2.3.4:8765". No trailing slash. Leave empty to
 # disable update checking entirely. The app asks "{UPDATE_SERVER}/api/latest" for the newest
