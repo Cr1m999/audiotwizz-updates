@@ -1,13 +1,13 @@
 {
-  "version": "7.5",
-  "notes": "HOPEFULLY FIXED",
-  "published_at": 1791041329,
-  "app_sha256": "13a5bfa35aea5da534160c4a97301cb1d57ed347c2ec6db69d92be15e0bddb65",
+  "version": "7.6",
+  "notes": "ui updates :)",
+  "published_at": 1791041755,
+  "app_sha256": "4dc198d30f80024e70ff6af520a4d8040a7938cdbe669aec6c787024016a7236",
   "compiled": true,
   "runtime_files": [
     {
       "path": "_audiotwizz_core.cp312-win_amd64.pyd",
-      "sha256": "8964459bf2d8332ffbc66d3ee7aefd1babc2e2ae8dcf23c0ace24b5ffb8dc450"
+      "sha256": "fe2c229aaa26cf06d128e139b8cb99ad0307f7dc45cb9b29d938cc472e3f7737"
     }
   ],
   "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
