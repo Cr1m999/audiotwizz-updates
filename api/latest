@@ -1,13 +1,13 @@
 {
-  "version": "7.4",
-  "notes": "osamason",
-  "published_at": 1791036687,
-  "app_sha256": "d46a1700bf53b670fb2073edb9c22541650b2e2b1aaa9edac4e10492b9507d97",
+  "version": "7.5",
+  "notes": "HOPEFULLY FIXED",
+  "published_at": 1791041329,
+  "app_sha256": "13a5bfa35aea5da534160c4a97301cb1d57ed347c2ec6db69d92be15e0bddb65",
   "compiled": true,
   "runtime_files": [
     {
       "path": "_audiotwizz_core.cp312-win_amd64.pyd",
-      "sha256": "be752d33e0ec6eaa0618e170f059757f9f6a48fce86ae8ded26caa0bbb9605a8"
+      "sha256": "8964459bf2d8332ffbc66d3ee7aefd1babc2e2ae8dcf23c0ace24b5ffb8dc450"
     }
   ],
   "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
