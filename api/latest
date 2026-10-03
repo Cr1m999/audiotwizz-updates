@@ -1,13 +1,13 @@
 {
-  "version": "7.2",
-  "notes": "balright",
-  "published_at": 1791034083,
+  "version": "7.3",
+  "notes": "idk anymore brother",
+  "published_at": 1791034542,
   "app_sha256": "d46a1700bf53b670fb2073edb9c22541650b2e2b1aaa9edac4e10492b9507d97",
   "compiled": true,
   "runtime_files": [
     {
       "path": "_audiotwizz_core.cp312-win_amd64.pyd",
-      "sha256": "497f09cec750f82a5e35123704b48568b167f5a0023fcafdf67690215dbadae8"
+      "sha256": "eb4afa8e65b65506779b571cf4df234fe98e6ec56563b81422910a0ab4139590"
     }
   ],
   "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
