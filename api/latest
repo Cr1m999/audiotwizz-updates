@@ -1,13 +1,13 @@
 {
-  "version": "8.1",
-  "notes": "+ More old versions added to rollback feauture",
-  "published_at": 1791113738,
-  "app_sha256": "d96c6d054f521c9eb9d593e4c207601c46e4d8f4510094fcb4077f2d80fec19c",
+  "version": "8.2",
+  "notes": "+ UI updates",
+  "published_at": 1791127692,
+  "app_sha256": "d3158c987ba4e238c83012d25224ee8c9a4b0d662d8a6900ca8e95bfa496db85",
   "compiled": true,
   "runtime_files": [
     {
       "path": "_audiotwizz_core.cp312-win_amd64.pyd",
-      "sha256": "be4dbffc8baa4cdb50b1d279e3bd668d4e2264ba48dcc8a76d79709c987f16c5"
+      "sha256": "c8c5f8d3f96382381c3c0b8386a5afec69ea6a77526366038fa1a6dd581c92b2"
     }
   ],
   "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
