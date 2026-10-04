@@ -1,13 +1,13 @@
 {
-  "version": "7.8",
-  "notes": "admin related",
-  "published_at": 1791049566,
-  "app_sha256": "8e2926e6253f489287751be379aeaae400e5c515c388266d26939d6d7a749dc2",
+  "version": "7.9",
+  "notes": "+ Update rollback feature",
+  "published_at": 1791081043,
+  "app_sha256": "033f4df14e4d42e70f7c61f6b0bc86b21a78fabc9757c1b2c5c4f1696d4ab382",
   "compiled": true,
   "runtime_files": [
     {
       "path": "_audiotwizz_core.cp312-win_amd64.pyd",
-      "sha256": "d88d20bf1e3745d83a4060da6ee8079a5def0981e66da2059b2d3df2aaf5b326"
+      "sha256": "e018b0ccbf8818c134f16d49d3eed0e82d18da24c02f7ecedad459b51859e812"
     }
   ],
   "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
