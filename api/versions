@@ -1,6 +1,19 @@
 {
-  "latest": "8.6",
+  "latest": "8.7",
   "versions": [
+    {
+      "version": "8.7",
+      "notes": "i pull up in tonkas",
+      "published_at": 1791384245,
+      "app_sha256": "68672dd804891122526abab8c801f37acbaa6ed06b8ff12b1d3207140c8ea644",
+      "runtime_files": [
+        {
+          "path": "_audiotwizz_core.cp312-win_amd64.pyd",
+          "sha256": "4f758ea88b0c946fe4c048babc130bb7e2b49dc15baf1cd1a7dbefa0e4ae34ec"
+        }
+      ],
+      "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
+    },
     {
       "version": "8.6",
       "notes": "+ Fixed errors",
