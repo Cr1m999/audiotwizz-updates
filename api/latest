@@ -1,13 +1,13 @@
 {
-  "version": "8.5",
-  "notes": "",
-  "published_at": 1791229507,
-  "app_sha256": "0df9c6b47666751c880c204e7f356f100a2fe98dbe38435242c822a6011647f9",
+  "version": "8.6",
+  "notes": "+ Fixed errors",
+  "published_at": 1791345931,
+  "app_sha256": "9a57fd7700dad1f6b8e3907286b7fb33ad699a3407123a33bad555912413e6a8",
   "compiled": true,
   "runtime_files": [
     {
       "path": "_audiotwizz_core.cp312-win_amd64.pyd",
-      "sha256": "d283eb4ba10378de0f951f949b55822381c41e10f4dd31d17d20fe74566c7ebb"
+      "sha256": "ad4949fb1a5e1e6fc870d8e8776e979ad5002db26280d1134cd6e4b12ec4b11b"
     }
   ],
   "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
