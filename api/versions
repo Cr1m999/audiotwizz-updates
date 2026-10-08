@@ -1,6 +1,19 @@
 {
-  "latest": "8.8",
+  "latest": "8.9",
   "versions": [
+    {
+      "version": "8.9",
+      "notes": "+ Media Update",
+      "published_at": 1791462742,
+      "app_sha256": "405745b17c3dce0e989b7f2eff3b82cb0b95c944f6f96164cab1d0731fa61125",
+      "runtime_files": [
+        {
+          "path": "_audiotwizz_core.cp312-win_amd64.pyd",
+          "sha256": "13281d42c6770aa3b5c9fdb0bdea30b1a9523e4c3c9bd6e1a0211d07eba4dc02"
+        }
+      ],
+      "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
+    },
     {
       "version": "8.8",
       "notes": "github issues",
