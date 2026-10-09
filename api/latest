@@ -1,13 +1,13 @@
 {
-  "version": "9.1",
-  "notes": "bug fixes",
-  "published_at": 1791506831,
-  "app_sha256": "336b650d07f5e7cca43e1d1223e4b9db24a50a3c178f9d885d3847eb8c77bfb3",
+  "version": "9.2",
+  "notes": "+ Better Color Detection",
+  "published_at": 1791570509,
+  "app_sha256": "b457471e98872706babc73bf3c3fa48714dadc0dad8f8169b595e96200d9393b",
   "compiled": true,
   "runtime_files": [
     {
       "path": "_audiotwizz_core.cp312-win_amd64.pyd",
-      "sha256": "357c792fe8577243cdc8612442cb840f02d9c8e7263262feff208d51b0ed97a3"
+      "sha256": "146429175f4f9faa512a7361e11360658fb85080c031713894756784cc1cc467"
     }
   ],
   "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
