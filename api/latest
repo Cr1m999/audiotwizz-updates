@@ -1,13 +1,13 @@
 {
-  "version": "9.0",
-  "notes": "+ Fixing bugs (im tired boss)",
-  "published_at": 1791490212,
-  "app_sha256": "eb3bfa3fab1c5a8b1f5827d945adc6b0c3c5ea20af150245ccb65dabbf9016d2",
+  "version": "9.1",
+  "notes": "bug fixes",
+  "published_at": 1791506831,
+  "app_sha256": "336b650d07f5e7cca43e1d1223e4b9db24a50a3c178f9d885d3847eb8c77bfb3",
   "compiled": true,
   "runtime_files": [
     {
       "path": "_audiotwizz_core.cp312-win_amd64.pyd",
-      "sha256": "2f64c336f87c4145585f1452e25767b2240a5c6f609aa78b139d3c88d2ad27ef"
+      "sha256": "357c792fe8577243cdc8612442cb840f02d9c8e7263262feff208d51b0ed97a3"
     }
   ],
   "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
