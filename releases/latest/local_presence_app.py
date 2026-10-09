@@ -14,7 +14,7 @@ _HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, _HERE)
 
 _CORE_FILE = '_audiotwizz_core.cp312-win_amd64.pyd'
-_CORE_SHA = '2f64c336f87c4145585f1452e25767b2240a5c6f609aa78b139d3c88d2ad27ef'
+_CORE_SHA = '357c792fe8577243cdc8612442cb840f02d9c8e7263262feff208d51b0ed97a3'
 _CORE_URL = 'https://cr1m999.github.io/audiotwizz-updates/releases/latest/_audiotwizz_core.cp312-win_amd64.pyd'
 
 
