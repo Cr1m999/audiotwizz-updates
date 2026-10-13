@@ -1,13 +1,13 @@
 {
-  "version": "9.4",
-  "notes": "",
-  "published_at": 1791853313,
-  "app_sha256": "e7cb12bb5a4d7862fd2dec18833e967289955f892d84b9b41fb0d5c5274b670d",
+  "version": "9.5",
+  "notes": "VISCA BARCA",
+  "published_at": 1791920828,
+  "app_sha256": "a716a5d8584b9c0097352fc26856d83be73a0599262c195533427245c9cc7a9f",
   "compiled": true,
   "runtime_files": [
     {
       "path": "_audiotwizz_core.cp312-win_amd64.pyd",
-      "sha256": "02bdd08c063c609e8caad4f0841446f6f7189733df2df5e498cc68e73c5a001e"
+      "sha256": "e1e36f9dc4cb5a361f7d06d25fe3d9930c2bcb8dfae82e838bef4caec05c74ed"
     }
   ],
   "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
