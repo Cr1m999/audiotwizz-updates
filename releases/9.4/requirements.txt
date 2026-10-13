@@ -1,0 +1,6 @@
+customtkinter
+pypresence>=4.3.0
+winsdk
+pystray
+Pillow
+mutagen
