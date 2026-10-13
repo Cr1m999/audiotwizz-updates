@@ -1,6 +1,19 @@
 {
-  "latest": "9.4",
+  "latest": "9.5",
   "versions": [
+    {
+      "version": "9.5",
+      "notes": "VISCA BARCA",
+      "published_at": 1791920828,
+      "app_sha256": "02effb87b8ba3d5d5a5ad98bc29caf28408104728a4cfa38c870487af0499031",
+      "runtime_files": [
+        {
+          "path": "_audiotwizz_core.cp312-win_amd64.pyd",
+          "sha256": "e1e36f9dc4cb5a361f7d06d25fe3d9930c2bcb8dfae82e838bef4caec05c74ed"
+        }
+      ],
+      "requirements_sha256": "e4ee988bb4407f00be262a61d1ade82329f2daca0848d77cef180641631245c2"
+    },
     {
       "version": "9.4",
       "notes": "",
